@@ -17,7 +17,7 @@
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="React" src="https://custom-icon-badges.herokuapp.com/badge/React-68217A.svg?logo=react&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="Tailwind" src="https://custom-icon-badges.herokuapp.com/badge/tailwind-68217A.svg?logo=Tailwind&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="Tailwind" src="https://custom-icon-badges.herokuapp.com/badge/Tailwind-68217A.svg?logo=Tailwind&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="FramerMotion" src="https://custom-icon-badges.herokuapp.com/badge/FramerMotion-27292e.svg?logo=framermotion&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
